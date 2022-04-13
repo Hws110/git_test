@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hot-fix--------------");
         System.out.println("master merge-------");
         System.out.println("hot-fix222222222222222");
+        System.out.println("push----------");
     }
 }
